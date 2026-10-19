@@ -1,0 +1,9 @@
+config BR2_PACKAGE_WAMR
+	bool "wamr"
+	depends on BR2_arm || BR2_aarch64
+	depends on BR2_INSTALL_LIBSTDCPP
+	help
+	  WebAssembly Micro Runtime, built as libiwasm.so with only the
+	  classic interpreter: what the bitwasm-signer modules run on.
+
+	  https://github.com/bytecodealliance/wasm-micro-runtime

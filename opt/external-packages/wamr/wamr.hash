@@ -1,0 +1,3 @@
+# Locally computed; the archive is the WAMR-2.4.5 tag, commit 25bd7eb63e828e4bd242cc9b38d260b4b31c6605
+sha256  1ab09d51099f276ca4a1d6629f6b589aab2bd0caa01445e05031a4bed22c199b  wamr-2.4.5.tar.gz
+sha256  0a274df3755e61b169266fba62d842489378bc9a6e9a63fe24f02ee6f5de419f  LICENSE
